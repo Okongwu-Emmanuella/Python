@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc067375-6cf8-4c10-94d5-4d985b33b3ba" name="Changes" comment="Print numbers from 0 to 98 in decimal and hexadecimal">
-      <change afterPath="$PROJECT_DIR$/0x01-python-if_else_loops_functions/00...99.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="dc067375-6cf8-4c10-94d5-4d985b33b3ba" name="Changes" comment="Print numbers 00 to 99" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713117094577</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Print numbers 00 to 99">
+      <option name="closed" value="true" />
+      <created>1713119113055</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713119113055</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -142,6 +147,7 @@
     <MESSAGE value="Python practice files" />
     <MESSAGE value="Printing ASCII alphabets without e and q" />
     <MESSAGE value="Print numbers from 0 to 98 in decimal and hexadecimal" />
-    <option name="LAST_COMMIT_MESSAGE" value="Print numbers from 0 to 98 in decimal and hexadecimal" />
+    <MESSAGE value="Print numbers 00 to 99" />
+    <option name="LAST_COMMIT_MESSAGE" value="Print numbers 00 to 99" />
   </component>
 </project>
