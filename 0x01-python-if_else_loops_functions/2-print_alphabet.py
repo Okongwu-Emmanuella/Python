@@ -13,4 +13,7 @@ for num in range(97, 123):
     print(chr(num), end="")
 
 
-
+'''hex_string = '0F'
+decimal_value = int(hex_string, 16)
+print(f"Value in hexadecimal: {hex_string}")
+print(f"Value in decimal: {decimal_value}")'''

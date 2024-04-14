@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc067375-6cf8-4c10-94d5-4d985b33b3ba" name="Changes" comment="Python practice files" />
+    <list default="true" id="dc067375-6cf8-4c10-94d5-4d985b33b3ba" name="Changes" comment="Printing ASCII alphabets without e and q">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x01-python-if_else_loops_functions/2-print_alphabet.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x01-python-if_else_loops_functions/2-print_alphabet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x01-python-if_else_loops_functions/3-print_alphabt.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x01-python-if_else_loops_functions/3-print_alphabt.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +36,7 @@
     "Python.0-positive_or_negative.executor": "Run",
     "Python.1-last_digit.executor": "Run",
     "Python.2-print_alphabet.executor": "Run",
+    "Python.3-print_alphabt.executor": "Run",
     "Python.Positive and Negative numbers.executor": "Run",
     "Python.Script dynamic.executor": "Run",
     "Python.main.executor": "Run",
@@ -102,7 +107,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713114057016</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Printing ASCII alphabets without e and q">
+      <option name="closed" value="true" />
+      <created>1713114678765</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713114678765</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,6 +131,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Python practice files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Python practice files" />
+    <MESSAGE value="Printing ASCII alphabets without e and q" />
+    <option name="LAST_COMMIT_MESSAGE" value="Printing ASCII alphabets without e and q" />
   </component>
 </project>
