@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc067375-6cf8-4c10-94d5-4d985b33b3ba" name="Changes" comment="Print numbers 00 to 99">
-      <change afterPath="$PROJECT_DIR$/0x01-python-if_else_loops_functions/ 6-print_comb3.py" afterDir="false" />
+    <list default="true" id="dc067375-6cf8-4c10-94d5-4d985b33b3ba" name="Changes" comment="Print different combination of two digits">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -141,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713119187518</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Print different combination of two digits">
+      <option name="closed" value="true" />
+      <created>1713139205430</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1713139205430</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,6 +167,7 @@
     <MESSAGE value="Printing ASCII alphabets without e and q" />
     <MESSAGE value="Print numbers from 0 to 98 in decimal and hexadecimal" />
     <MESSAGE value="Print numbers 00 to 99" />
-    <option name="LAST_COMMIT_MESSAGE" value="Print numbers 00 to 99" />
+    <MESSAGE value="Print different combination of two digits" />
+    <option name="LAST_COMMIT_MESSAGE" value="Print different combination of two digits" />
   </component>
 </project>
